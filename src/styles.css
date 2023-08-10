@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+div.viewport {
+    padding: 40px;
+    margin: auto;
+};
+#myBtn {
+    padding: 20px;
+    margin: 10px;
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bi.bi-clipboard-plus {
+    font-size: 24px;
+}
