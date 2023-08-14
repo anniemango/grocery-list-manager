@@ -1,14 +1,18 @@
 div.viewport {
     padding: 40px;
     margin: auto;
+    background-color: antiquewhite
 };
 #myBtn {
     padding: 20px;
     margin: 10px;
 }
 h2 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: monospace;
 }
 .bi.bi-clipboard-plus {
     font-size: 24px;
+}
+html {
+    background-color: antiquewhite;
 }
